@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="@color/accent"
+        android:pathData="M60,60m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0"/>
+
+    <!-- SVNTS Text -->
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M30,45 L90,45 L90,75 L30,75 Z"
+        android:strokeWidth="4"
+        android:strokeColor="@color/text_primary"/>
+
+    <path
+        android:fillColor="@color/accent"
+        android:pathData="M40,50 L80,50 L80,70 L40,70 Z"/>
+
+    <!-- Dumbbell Icon -->
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M45,55h30v10h-30z"/>
+    
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M35,58h5v4h-5z"/>
+    
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M80,58h5v4h-5z"/>
+</vector> 

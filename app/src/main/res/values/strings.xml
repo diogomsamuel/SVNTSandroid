@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SVNTS</string>
+    
+    <string-array name="gender_array">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+</resources>
