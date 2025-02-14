@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Diogo Samuel** - *Initial work* - [GitHub Profile](https://github.com/diogomsamuel)
 
 ## 📬 Contact
-- Email: your.email@example.com
+- Email: diogosamuel.dev@gmail.com
 - Project Link: [https://github.com/diogomsamuel/SVNTSandroid](https://github.com/diogomsamuel/SVNTSandroid)
 
 ## 🙏 Acknowledgments
